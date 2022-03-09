@@ -9,7 +9,6 @@ public class Main {
         System.out.print("this is the length of the first wall (in m): ");
         int length = in.nextInt();
 
-
         System.out.print("You can choose between different brands, the final costs will depend on you choice");
         System.out.print(" Which one of the following options do you prefer, how much are you willing to spend? You can either press Y if you want World_paint or N if you do not:");
         String brand_1 = in.next();
@@ -38,3 +37,5 @@ public class Main {
 
     }
 }
+
+
